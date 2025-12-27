@@ -1,0 +1,3 @@
+[submodule "KotlinUIApp"]
+	path = KotlinUIApp
+	url = git@github.com:bmagsalan-org/KotlinUIApp.git
